@@ -1,0 +1,29 @@
+harshit - hello
+chirag - hello asdf -- v2
+
+Collaborative work:
+	- task -- 6 bndo 
+	- 1 person: push 
+	- pull - in local (uska kaam tere local me) -- additional work 
+	
+branch: master (main branch) - git repo
+Website: master -- glti 0, strictness maintain
+
+2 bnde:
+	branch:
+		- git checkout -b "branch_name"
+		- tortoiseGit (GUI)
+		
+
+Git can work without github but github can't work without git.
+
+
+Github: Cloud platform - apni repositories ko store krte hai.
+	
+	
+Steps:
+branch: master_v1 (1 local & 1 remote)
+1. Git initialise -- git ko batana ki bhai iss project me apni kripa rkho. (VCS start)
+2. git add .(staging) -- ye files hai, isko stage krle, mai push krunga.
+3. git commit -- local branch me dal dega teri files.
+4. git push -- teri local branch ke changes ko, remote branch pe push krdega.
