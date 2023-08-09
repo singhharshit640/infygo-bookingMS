@@ -24,6 +24,7 @@ import com.infygo.booking.service.BookingService;
 
 import io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker;
 
+//This is a controller for booking MS
 @RestController
 @RequestMapping("/InfyGoBoot2")
 public class BookingController {
