@@ -29,6 +29,7 @@ import io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker;
 @RequestMapping("/InfyGoBoot2")
 public class BookingController {
 
+	//This is a dev branch change
 	@Autowired
 	private BookingService service;
 	
